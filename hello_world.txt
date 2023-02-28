@@ -1,0 +1,1 @@
+This is my hello_world.txt file and i'm about to add all files to staging using git add .
